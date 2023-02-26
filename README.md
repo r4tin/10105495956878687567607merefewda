@@ -1,1 +1,1 @@
-# 10105495956878687567607merefewda
+print("your mom is my")
